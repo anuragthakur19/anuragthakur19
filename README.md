@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuragthakur
-- 👀 I’m interested in music and coding
-- 🌱 I’m currently learning Java
+-  I’m interested in music and coding
+- Learning Node JS
 - - 📫 You can reach me via callmeanurag19@gmail.com
 
 <!---
